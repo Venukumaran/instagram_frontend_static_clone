@@ -1,0 +1,59 @@
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2rem;
+  color: #262626;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+}.w-20 {
+  width: 20%;
+
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.logo {
+  width: 100px;
+}
+
+.bi {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.story {
+  height: 100px;
+}
+
+.img {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  padding: 2px;
+  margin-top: 4px;
+  margin-right: 10px;
+}
+
+.post {
+  width: 400px;
+  height: 300px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  margin: 10px 0;
+  background-color: #f2f2f2;
+}
+.img {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  padding: 2px;
+  margin-right: 10px;
+}
+
+.pro{
+  height: 75px;
+  width: 75px;
+}

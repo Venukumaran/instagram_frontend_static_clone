@@ -1,0 +1,161 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/profile1.jpg"
+      },
+      "image": "/assets/post1.jpg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "mark_ruf",
+        "profile_pic": "/assets/img1.avif"
+      },
+      "image": "/assets/post3.jpg",
+      "caption": "Morning vibes in the forest 🌳☀️",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "So peaceful!"
+        }
+      ],
+      "timestamp": "2025-02-12T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "jackson_92",
+        "profile_pic": "/assets/profile3.jpeg"
+      },
+      "image": "/assets/post2.avif",
+      "caption": "Caught this little guy mid-flight",
+      "likes": 150,
+      "comments": [
+        {
+          "user": "emma_rose",
+          "comment": "Incredible timing!"
+        },
+        {
+          "user": "alice_wonder",
+          "comment": "Love this photo!"
+        }
+      ],
+      "timestamp": "2025-02-13T08:45:00Z"
+    }
+  ],
+  "profile": {
+    "username": "markram",
+    "profile_pic": "/assets/profile3.jpeg",
+    "followers": [
+      {
+        "id": "101",
+        "username": "maria_jen",
+        "profile_pic": "/assets/profile1.jpg"
+      },
+      {
+        "id": "102",
+        "username": "chrisevans",
+        "profile_pic": "/assets/img1.avif"
+      },
+      {
+        "id": "103",
+        "username": "tony_17",
+        "profile_pic": "/assets/profile3.jpeg"
+      }
+    ]
+  },
+  "suggestion": [
+    {
+      "id": "101",
+      "username": "maria_jen",
+      "profile_pic": "/assets/profile1.jpg"
+    },
+    {
+      "id": "102",
+      "username": "chrisevans",
+      "profile_pic": "/assets/img1.avif"
+    },
+    {
+      "id": "103",
+      "username": "tony_17",
+      "profile_pic": "/assets/profile3.jpeg"
+    },
+    {
+      "id": "104",
+      "username": "jessica_alba",
+      "profile_pic": "/assets/profile1.jpg"
+    },
+    {
+      "id": "105",
+      "username": "michael_77",
+      "profile_pic": "/assets/profile3.jpeg"
+    },
+    {
+      "id": "106",
+      "username": "j_cruz",
+      "profile_pic": "/assets/profile3.jpeg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/profile1.jpg"
+      },
+      "story_image": "/assets/story1.jpg",
+      "timestamp": "2025-06-06T08:00:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "mark_ruf",
+        "profile_pic": "/assets/img1.avif"
+      },
+      "story_image": "/assets/story2.webp",
+      "timestamp": "2025-06-06T09:00:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "jackson_92",
+        "profile_pic": "/assets/profile3.jpeg"
+      },
+      "story_image": "/assets/story3.jpg",
+      "timestamp": "2025-06-06T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "maria_jen",
+        "profile_pic": "/assets/profile1.jpg"
+      },
+      "story_image": "/assets/story4.jpg",
+      "timestamp": "2025-06-06T11:00:00Z"
+    }
+  ]
+}
