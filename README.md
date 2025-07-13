@@ -32,3 +32,15 @@ A static clone of the Instagram UI built using **React**. This project focuses o
 
 
 
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Node.js installed
+- JSON Server installed globally:
+  ```bash
+  npm install -g json-server
+
+
+
