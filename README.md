@@ -42,5 +42,13 @@ A static clone of the Instagram UI built using **React**. This project focuses o
   ```bash
   npm install -g json-server
 
+Install frontend dependencies:
+npm install
+
+Start JSON Server:
+json-server --watch db/db.json --port 3001
+
+Start the React app:
+npm run dev
 
 
